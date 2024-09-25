@@ -1,0 +1,28 @@
+Aprendizado supervisionado trabalha com uma base de dados rotulada, enquanto o aprendizado não supervisionado não tem rótulos.
+
+
+Overfitting ocorre quando o modelo se adapta bem demais ao conjunto de treino, o que faz com que ele não preveja bem dados que nunca foram vistos. Existem alguns métodos para evitar o overfitting, como a regularização, a poda de árvores de decisão e o uso de validação cruzada. A alta cardinalidade e variáveis únicas da observação também podem contribuir para o overfitting, pois o modelo pode acabar identificando padrões específicos dos dados de treino.
+
+
+A validação cruzada envolve rodar o mesmo modelo em diferentes divisões de treino/teste do mesmo conjunto de dados. É importante porque faz uma média dos erros, diminuindo a variância e proporcionando uma estimativa mais robusta do desempenho do modelo.
+
+
+O processo de normalização é quando os dados de uma variável são escalados para ficarem entre 0 e 1, o que evita que o modelo considere números maiores como mais importantes. Outra técnica similar é a padronização, que transforma os dados para terem média 0 e desvio padrão 1.
+
+
+As árvores de decisão têm alta variância, mas não exigem tanta normalização dos dados. Elas são fáceis de interpretar, mas podem ser propensas ao overfitting.
+
+
+O algoritmo k-means é um método de clustering que particiona os dados em k clusters, minimizando a soma das distâncias quadradas entre os pontos e o centroide do cluster.
+
+
+Bagging (Bootstrap Aggregating) é uma técnica que melhora o desempenho dos modelos ao treinar múltiplas versões do modelo em subconjuntos diferentes dos dados e depois combinar suas previsões. Isso reduz a variância e ajuda a evitar overfitting.
+
+
+Precisão (Precision) é a proporção de verdadeiros positivos sobre a soma de verdadeiros positivos e falsos positivos, indicando a porcentagem de predições corretas entre as positivas. Recall é a proporção de verdadeiros positivos sobre a soma de verdadeiros positivos e falsos negativos, indicando a capacidade do modelo de identificar corretamente os positivos. O F1-score é a média harmônica entre precisão e recall, proporcionando uma única métrica que balanceia ambos.
+
+
+PCA (Análise de Componentes Principais) é uma técnica de redução de dimensionalidade que transforma os dados em um novo conjunto de variáveis não correlacionadas (componentes principais), ordenadas pela quantidade de variância que explicam nos dados.
+
+
+Para lidar com dados faltantes, você pode usar técnicas como imputação (preencher valores faltantes com a média, mediana ou moda), remoção de registros incompletos, ou modelagem de valores faltantes. Técnicas como SMOTE, undersampling ou oversampling são usadas para lidar com desequilíbrios de classe, não para dados faltantes.
