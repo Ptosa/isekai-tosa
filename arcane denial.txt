@@ -18,3 +18,4 @@ exploration
 dictate of erebos
 song of the dryads
 druid class
+grave-shell scarab
