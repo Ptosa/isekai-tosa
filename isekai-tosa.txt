@@ -8467,7 +8467,89 @@ Gustaff ignora a pergunta
 Marta , jas e isabela estão conversando sobre o cargueiro na frente do grupo 
 Enquanto eles corriam , mal deu pra ver a cidade 
 Mas agora olhando com calma , as ruas são extremamente calmas e vazias
-As luzes fracas que saem das paredes e refletem nos prédios dão um ar de pier de noite 
+As luzes fracas que saem das paredes e refletem nos prédios dão um ar de pier de noite pra cidade
+A cidade parece uma cidade do velho oeste , só que expandida e com muros
+Se você ja jogou the witcher 1 , parece a cidade 
+As casas tem um aspecto meio balde de lixo , parecem placas de metais juntadas até formar um pequeno prédio ou uma casa
+Existem alguns prédio de madeira ou cimento, mas são estabelecimentos , igrejas e o tal alojamento que a marta tá
+"Ter que caçar a propria janta? que merda... Chegamos galera! (Marta fala metendo a mão no bolso) Era pra todos da triagem ficarem nesse alojamento , mas aparentemente ninguem quer vir prá cá a muito tempo" -Marta fala abrindo a porta
+E realmente , parece o hospital de hogwarts , um longo corredor com varias camas e cortinas separando as camas 
+O lugar tem uma unica lampada no teto, que mesmo ligada não parece fazer muita diferença
+A luz da lua vindo pela janela e pelos furos nas placas de madeira conseguem ganhar da lampada
+Assim que todo mundo entra , o principal fica olhando pra isabela
+Que instantaneamente tenta entrar na marta
+Mas o principal para ela com a mão
+"ai , ai , ai. Porra , toda vez eu esqueço disso" - O principal fala balançando a mão
+Isabela ta olhando pra ele
+O principal sinaliza o Davi com a cabeça
+Isabela da uma revirada de olho
+"Gente , antes que possamos fazer qualquer coisa. alguns avisos. Marta , pode chamar a clotilde e pessoa?Eles tão la fora (piscada)" -Principal
+"Lá fora? eles tão aqu... é verdade , eles tão la fora , vou chamar eles" - Marta se toca da presença do davi e entra no script do principal
+Em menos de um minuto , clotilde e pessoa vem pela porta com a marta
+Clotilde parece ter acabado de acordar
+Pessoa só ta flutuando catatonico como sempre
+~Galera! Como que foi a viagem!~ -Pessoa fala mentalmente pra eles 
+"Bom dia gente... vocês ja foram pro cargueiro?" - CLotilde fala bocejando e limpando seus olhos de remela
+Gustaff vai correndo dar um abraço nos dois
+"Eae galera! Que saudade" -Gustaff fala enquanto abraça os dois
+"Eita! que saudade toda é essa? eu dormi tanto tempo assim?" -Clotilde fala devolvendo o abraço
+Pessoa não comunica nada
+A cara dele já não muda , mas normalmente ele fala alguma coisa
+"Antes que todo mundo possa se estabelecer mais uma vez , Tem algo que eu preciso dizer... O mestre se foi" -Principal
+O sono parece sair da cara de Clotilde, a marta tampa a própria boca quando solta um gasp ouvindo a noticia
+Pessoa continua lá flutuando
+"Levaram ele? a gente ta a salvo?" -Marta
+"Eu ia só distrair os caras dos lumieres enquanto ele fugia, quando a gente foi ver, ele foi pego..." -Principal
+"ELE FOI CAPTURADO?" -Marta e Clotilde juntas
+"Essa é a noticia... boa?... A gente conseguiu matar ele antes deles fugirem" -Principal
+"Mas isso não é tudo... Antes disso tudo acontecer , eu e ele passamos por um processo de fusão sinaptica..." -Principal
+"Fusão sinaptica?" -Clotilde
+"Ele moscou com o cerebro do professor" -Isabela
+"Ah sim" -Clotilde
+O principal fica meio em choque que realmente ela entendeu
+"Então... meio que ele ainda tá aqui... e talvez esse tenha sido o plano... pelo menos foi oque a gente pensou vindo pra cá" -Principal
+"Realmente , o mestre capturado parece bem impossivel , o cara já se soltou usando o gosto do ar de onde ele tava" -Marta
+"No caso ele pediu pra eu abrir um buraco debaixo dele" -Clotilde
+"Mas saber exatamente onde você tá num quarto usando somente gosto é loucura" -Marta
+"De qualquer jeito , acho que todos sabemos oque fazer agora" -Principal
+"Vingança..." -Davi
+"Não , meu deus... Ele deixou um botão pra essa situação" -Principal
+"Tá , onde ta esse botão?" -Davi
+"Tá , segundo assunto da noite. Davi , esses são clotilde e pessoa , nossos dois ultimos integrantes que você ainda não conheceu." -Principal
+"Oi davi" -Clotilde
+~Eae Davi~ - Pessoa
+"... A gente vai precisar entrar no qg pra apertar o botão. E se você souber oque é nosso qg , não tem volta..." -Principal
+"Tudo bem , eu faço o sacrificio" -Davi
+"Relaxou... Não é assim tambem. Se você amanha decidir voltar pro seus primos , eu não vou poder deixar. E aqui não funciona assim. Então só peço pra você ficar vendado quando for entrar no qg. Pra segurança de ambos" -Principal
+"Eu não vou voltar pra casa , independente do que acontecer" - Davi
+O principal olha pra ele com cara de cu
+"Tá , eu entro vendado" -Davi fala meio relutante
+"Alguem tem uma venda?" - Principal pergunta pro grupo
+Todos olham pra ele com uma cara de duvida
+"Marta , carpete" -Principal 
+Marta começa a desenrolar o carpete da barriga dela 
+"Alguem quer fazer as honras?" -O principal fala estendendo parte do carpete , como se quisses que alguem cortasse
+"Vai lá você , acabei de acordar" -Clotilde fala pro gustaff
+Gustaff estende os dedos e faz o movimento de tesoura
+Ele corta um filete do carpete , de uns 30 cm
+"Pronto , habemos venda" -Principal fala indo pra trás do Davi
+"Cuidado com o cabelo" - Davi fala ajeitando o cabelo dele para que o principal consiga vendar ele
+Davi vendado
+"Marta , entra você primeiro que eu ajudo o davi aqui (piscada muito forte)" - Principal
+Isabela sai correndo pra dentro da marta
+Os outros vão atrás
+O principal abaixa a cabeça do davi para que ele caiba 
+E finalmente eles tão dentro da marta de novo
+Aquele escritório apertado nunca pareceu tão aconchegante
+"Tá , eu vou lá no meu quarto pegar o botão" -Principal
+Ele sai andando a caminho do quarto do mestre
+E ele percebe que a sensação de alivio veio basicamente do mestre
+Ele mal passou tempo aqui pra ter esse apego todo
+Ele entra no quarto do chefe , e da pra ver o botão em cima de uma prateleira 
+Cheio de poeira , protegido por um cubo de acrílico
+Vários livros e aparatos estão na frente do botão , mas como é um big red button , ele é reconhecível de longe 
+
+
 
 
 -intro: principal começa a mandar oque cada um tem que fazer
