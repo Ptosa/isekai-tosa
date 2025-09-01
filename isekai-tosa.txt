@@ -3779,7 +3779,7 @@ O mestre já apertou o botão do elevador
 "Vamos ver como que os outros estão" -Mestre
 Eles entram novamente no elevador espacial
 "Porque que a gente não tem umas camas dessas espaciais na marta?" -Principal
-"É difícil ter uma cama dessas em casa. Não é tão difícil levar uma casa , ou pelo menos uma mega barraca no seu bolso, o jeito que eles acharam de convencer pessoas a ficarem em hotéis são essas mega-comodidades. Uma cama dessa custa quase o valor de uma casa inteira , também porque o preço das caixas abaixou muito , já que distribuem elas de graça" - Mestre
+"É difícil ter uma cama dessas em casa. Não é tão difícil levar uma casa , ou pelo menos uma mega barraca no seu bolso, o jeito que eles acharam de convencer pessoas a ficarem em hotéis são essas mega-comodidades. Uma cama dessa custa quase o valor de uma casa inteira , também porque o preço das casas abaixou muito , já que distribuem elas de graça" - Mestre
 A porta abre e eles vão andando pro quarto deles, o mestre da uns toquinhos na porta e ninguém abre
 "Puta merda" -O mestre fala batendo mais forte
 Ele bate mais forte de novo, mas no meio da batida
@@ -4751,7 +4751,8 @@ O principal deixa o bolo com o atendente
 Quando ele volta pra rua , ele olha o carrinho passando por cima 
 Mas nem pensa nisso
 Ele só vai correndo pra praça de alimentação de volta
-Ele até aguenta correr um pouco , mas antes de chegar na praça ele precisa dar uma descansada
+Ele até aguenta correr um pouco , mas da pra sentir os músculos cansados de quando ele fugiu do cachorro mais cedo  
+Antes de chegar na praça ele precisa dar uma descansada
 a uma quadra de distancia , o resto do grupo consegue ver o principal esbaforido
 Eles correm até ele
 "Que que foi? quem ta atrás de você" - Gus aparece como o minato do lado do principal
@@ -9421,7 +9422,7 @@ Lao solta um risada falsa pra Jas
 "Sabe se o Bjorn recebeu alguma coisa? A muito tempo que a gente não fala com ele" -Jas
 ~Receber ele recebeu , só não respondeu nada~ 
 "E eu até consigo lembrar do Sr.Imortal. Gatão e imortal, mas oque que tem ele?" - Principal
-"Ele foi uma das primeiras jogadas de marketing de utopolis. Como ele não pode teleportar , ele ter "escolhido" aqui foi perfeito pra vender a ideia "Pra quem pode escolher , esse é o melhor lugar". Ele foi uma das primeiras pessoas queo mestre defendeu dos lumieres, o negocio que o Sr.imortal não tava muito nessa. Ele não queria ter que ficar fugindo, preferiu só ficar ali mesmo" -Gustaff
+"Ele foi uma das primeiras jogadas de marketing de utopolis. Como ele não pode teleportar , ele ter "escolhido" aqui foi perfeito pra vender a ideia "Pra quem pode escolher , esse é o melhor lugar". Ele foi uma das primeiras pessoas que o mestre defendeu dos lumieres, o negocio que o Sr.imortal não tava muito nessa. Ele não queria ter que ficar fugindo, preferiu só ficar ali mesmo" -Gustaff
 "Mas ele é do bem , só tem o ego meio frágil. Mas do bem" -Jas 
 "Mais um com o ego frágil?" -Principal
 "Então , o imortal só não morre mesmo , ele regenera tão rápido quanto um ser humano comum. O problema que se passaram uns 45 anos e ele era um remendo de pessoa. Depois de tanta cirurgia , e agora sendo a cara de utopolis, ele pressa muito pelo pela aparência dele. Então ele é todo cagado" -Jas
@@ -9432,7 +9433,62 @@ Principal olha pra Jas com a sobrancelha levantada
 "É uma piada cara. Ele realmente não corta , mas não tem problema, ele não é babaca. Se tiver que cortar ele corta , obviamente" -Gustaff
 "Olha , se o gustaff ta falando isso , eu vou acreditar. Ele não ficou suave assim com Davi..." -Principal
 Eles acabaram de chegar no salão comunitario
+Javi tá ali , falando no celular, andando loucamente de um lado pro outro
+No que ele olha pra cima e vê grupo
+Ele já faz gestos com a mão de "Sentem ai, eu tava esperando vocês"
+"Vejam se acham alguma coisa pra festa , eu to com medo de alguém chegar do nada, deixem que eu falo com Javi" -Principal
+Jas já pega uma das mesas e bota contra a parede, e começa a botar seu amplificador ali
+"Vou deixar vocês decidindo isso ai , daqui a uns 15 minutos eu ligo de volta" -Javi fala desligando o celular- "Principal !! Como estamos com as preparações?"
+"Então, nossos convidados podem chegar a qualquer instante..." -Principal
+"O Sr.Imortal ainda não né , o Twitter tá falando que ele ainda está no apartamento dele" -Javi
+"Pelo menos a gente não foi os únicos né pessoa hahaha.... A gente esquece que ele claramente tem algum método de andar na rua sem ser reconhecido. Ele deve estar vindo já sim" -Principal
+"Mas , mas ... E o publico? achei que as pessoas finalmente iriam ver a partição como o lugar de... alguma coisa sabe... Hoje em dia até a cidade que jogou dinheiro fora tem mais reputação que a nossa" -Javi
+"Nossa, não sabia que era por isso que você ficou tão animado com o Sr.Imortal... Olha , pode ser que a gente não chame gente de fora aqui pra dentro, mas a gente pode fazer a galera que está aqui ficar ainda mais feliz de estar aqui entende? talvez fazer o Sr.imortal se sentir confortável aqui possa ser um ponto positivo, oque vai ser mais fácil com uma comunidade do que em uma cidade grande, entende?" -Principal
+"Tá , acho que to entendendo... (ele pega o celular) Mudança de planos gente" -Javi começa a falar no celular de novo e volta a ficar perambulando por ai
+Principal olha pro grupo e vê que gustaff está pegando umas panelas e utensílios e colocando perto de uma área com um fogão ali
+Pessoa foi pro lado de jas , ver como funciona o amplificador , tentado ajudar ela 
+E o Lao parece estar andando pelo perímetro do salão , meio que de segurança
+"Esperando o Davi?" -Principal fala pro Lao passando de um lado pro outro
+"Essa festa não precisa de um porteiro? Você lembra dos rostos das pessoas que vem?" -Lao
+"Eu achei que você era um segu...." -Principal
+"Achou errado" -Lao- "Mas sim , se aquele grupo do Davi aparecer , é melhor alguém estar preparado né... a gente tá no território deles" -Lao
+"Qualquer coisa é só gritar" -Principal
+O principal vai até Gustaff
+"E você , ta fazendo oque?" -Principal
+"Te falar que depende dos ingredientes, ainda estou decidindo hahaha" - Gustaff
+"Acho que um cafezinho , um bolinho qualquer coisa , ou qualquer lanchinho de fim de tarde que se compra numa padaria vai estar de ótimo tamanho... Mas precisando de qualquer coisa, é só falar comigo" -Principal
+Dá pra ver que Gustaff dá uma leve travada, parece que ele ia fazer algo muito mais mirabolante mas aceitou fazer só um bolinho com café 
+No que o principal ta andando pra falar com Pessoa e Jas
+"Cadê a minha turminha de bagunceiros favorita??" -Uma voz fala do corredor que liga a parte de fora com o salão publico
+"ARMANDO!!!!!" -Gustaff fala quase jogando todos os utensílios dele para o alto
+"Vem ca bigodudo!!" -Armando fala abrindo os braços e indo abraçar gus
+Antes dele sair correndo ele deixou uma caixinha de vidro com uma muda dentro na mesa mais perto que ele tinha
+"Vem cá seu biólogo tarado" -Jas fala saindo de cima da mesa e indo abraçar Gus e armando
+"A quanto tempo rapaziada , que saudades... Cadê o marrento?" -Armando
+"Oi armando" -Lao
+"Você não mudou nada mesmo hein" -Armando fala passando a mão na cabeça do Lao
+Armando é largado pelo Gus 
+Ele cai uns 10 centímetros no chão
+Principal ta ali vendo eles se falando
+"E você novato? Um pouco mais de uma semana com o grupo e o mestre teleporta? Você não pareceu tão ruim quando foi treinar lá comigo" -Armando pergunta dando uma leve cobrada no Principal , meio que no "Aperta que ele peida"
+"Eae armando , bom saber que você realmente não abaixa a guarda" - O principal fala isso estendendo a mão pro armando
+Que ele aperta daquele jeito de sogro , apertando forte a mão do principal 
+Só que o principal joga um toque com o armando
+E a mesma cara que o Lao fez ontem quando ele desconcertou ele com a cosquinha no suvaco
+A cara do armando se desmontou
+"A quanto tempo eu não faço isso haha...." -Armando se perde na risada dele, parece que ele conectou os pontos
+"Quando que ele te ensinou isso?" -Armando pergunta com uma cara seria pro principal
+"Eu acabei de decobrir que consigo fazer isso hahaha. Eu to aqui ainda cara , tem muita coisa pra explicar...." -Principal
+Armando fica meio embasbacado
+~Logo você fazendo essa cara seu armando?~ Pessoa fala com ele mentalmente
+"Ohhhh Pessoa , que saudade" -Armando vai dar um abraço no pessoa
+Mas pessoa só fica ali catatônico
+~E sobre esse negocio do mestre e do principal... Ele ta ai , a gente visitou o tal do porão ontem~ Pessoa
 
+
+
+
+  
 
 
 
